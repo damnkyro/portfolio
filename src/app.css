@@ -1,0 +1,56 @@
+html, body {
+    font-family: 'Satoshi', sans-serif;
+    font-size: 16px;
+    color: rgb(231, 231, 231);
+    line-height: 1;
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    line-height: 1;
+}
+
+h1, h2, h3, h4, h5, h6, ul, ol, dl, figure, blockquote, fieldset, legend, button, a, input, section, div, p, span {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+button {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+:root {
+    --grey: #34343413;
+    --border-grey: #333333;
+    --blue-color: #67a5e8;
+    --black: #000000;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+}
+
+.background {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-color: #0c0c0c;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
