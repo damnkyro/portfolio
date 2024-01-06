@@ -1,7 +1,6 @@
 <script>
   import Commissions from "$lib/Commissions.svelte";
   import Contact from "$lib/Contact.svelte";
-  import Footer from "$lib/Footer.svelte";
   import Hero from "$lib/Hero.svelte";
   import Projects from "$lib/Projects.svelte";
   import Skills from "$lib/Skills.svelte";
@@ -23,8 +22,6 @@
     <Contact />
   </div>
 </div>
-
-<Footer />
 
 <style>
   .container {
