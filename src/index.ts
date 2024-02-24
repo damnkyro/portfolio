@@ -1,0 +1,1 @@
+export const pfp = "/media/2.jpg";

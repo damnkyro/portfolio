@@ -49,7 +49,7 @@
         border-radius: 8px;
         top: 70px;
         background: rgba(0, 0, 0, 0.5);
-        padding: 4px 8px;
+        padding: 6px 8px;
         left: -30px;
     }
     

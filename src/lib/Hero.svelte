@@ -1,7 +1,11 @@
+<script>
+    import { pfp } from "..";
+</script>
+
 <section>
     <div class="container">
         <div>
-            <img src="/media/2.jpg" alt="pfp" width="140px" class="pfp"/>
+            <img src={pfp} alt="pfp" width="140px" class="pfp"/>
         </div>
     
         <div class="kyro">

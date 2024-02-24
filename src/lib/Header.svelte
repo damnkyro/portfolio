@@ -1,7 +1,11 @@
+<script>
+    import { pfp } from "..";
+</script>
+
 <div class="container">
     <div>
         <a href="/">
-            <img src="/media/2.jpg" alt="pfp" width="50px" class="pfp"/>
+            <img src={pfp} alt="pfp" width="50px" class="pfp"/>
         </a>
     </div>
 
