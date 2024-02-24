@@ -4,7 +4,7 @@
 
         <ul class="skills">
             <li>Frameworks: Express, FastAPI, NextJS, React, Sveltekit, Tailwind CSS</li>
-            <li>Databases: MongoDB, PostgresDB, Supabase</li>
+            <li>Databases: MongoDB, PostgreSQL, Supabase</li>
             <li>Languages: C++, CSS, Golang, HTML, Javascript, Python, Typescript</li>
             <li>Tools: Git, VScode</li>
         </ul>

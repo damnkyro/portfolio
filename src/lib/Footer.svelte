@@ -1,5 +1,7 @@
 <footer>
-    <p>Copyright @ kyro 2024</p>
+    <div class="footah">
+        <p>Copyright @ kyro 2024</p>
+    </div>
 </footer>
 
 <style>
@@ -7,7 +9,7 @@
         display: flex;
         justify-content: center;
         background: #151515;
-        margin-top: 90px;
         padding: 32px 0;
+        margin-top: 90px;
     }
 </style>

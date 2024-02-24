@@ -11,8 +11,7 @@
         display: flex;
         align-items: center;
         margin: 0 auto;
-        width: 50vw;
-        height: 100vh;
+        max-width: 900px;
     }
 
     @media screen and (max-width: 768px){

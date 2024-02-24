@@ -1,7 +1,7 @@
 <section>
     <div class="container">
         <div>
-            <img src="/media/1.jpg" alt="pfp" width="140px" class="pfp"/>
+            <img src="/media/2.jpg" alt="pfp" width="140px" class="pfp"/>
         </div>
     
         <div class="kyro">
@@ -16,7 +16,7 @@
         display: flex;
         align-items: center;
         gap: 32px;
-        height: 40vh;
+        margin: 40px 0 90px 0;
     }
 
     .kyro {

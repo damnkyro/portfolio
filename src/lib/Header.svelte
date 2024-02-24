@@ -24,6 +24,8 @@
         align-items: center;
         padding: 10px 100px;
         background: #151515;
+        box-sizing: border-box;
+        
     }
 
     .pfp {
